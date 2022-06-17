@@ -1,0 +1,25 @@
+   /* FOOTER */
+
+footer{
+    background-color: #808080;
+    text-align: center;
+}
+
+footer p , h3{
+    font-size: 25px;
+}
+
+.dev_links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.display_link{
+    margin-left: 50px;
+}
+
+.display_link a{
+    text-decoration: none;
+    color: rgb(180, 199, 192);
+}
